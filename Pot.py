@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import datetime 
 import sys
 import csv
+#impor
 
 def EPS(PV, dt):  #Init: lista de condiciones iniciales P, V
     '''
